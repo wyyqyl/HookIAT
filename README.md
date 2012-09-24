@@ -1,0 +1,1 @@
+HookIAT.dll is a dll that hook the functions in the IAT, while Test.exe is an executable inject the dll into other process.
